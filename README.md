@@ -1,1 +1,2 @@
-사용: Redis,Kafka,Mysql
+# 1. 사용
+Redis,Kafka,Mysql
